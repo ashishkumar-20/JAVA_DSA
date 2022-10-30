@@ -1,0 +1,21 @@
+Linked list is a linear data structure in which elements are not stored at continuous memory locations.
+Linked list consist of two parts data parts and pointer ( reference or address ) of the next node .
+
+Types of Linked list :
+1) Singly Linked list
+2) Circular Linked list
+3) Doubly Linked list
+
+Singly Linked list can be traversed in one direction only. last node of singly linked list  point to null.
+Last node of circular linked list contains address of the head node or first node.
+Doubly linked list can be traversed in both direction .
+
+Advantage of Linked list :
+Insertion and deletion is easy.
+Due to Dynamic. 
+
+Disadvantage of Linked list :
+Takes more memory.
+Random access of data is not possible. we have to access elements sequentially starting from the first node.
+
+
