@@ -1,0 +1,5 @@
+Doubly Linked list contain 3 parts data parts and prev nodes  and next Nodes.
+Doubly Linked list can be traversed in both direction forward and backward direction.
+Doubly Linked list deletion at beginning or end takes constant time.
+Doubly Linked list insertion at beginning or end takes constant time.
+Doubly Linked list search and access time is O(n).
