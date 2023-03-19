@@ -8,3 +8,4 @@
 6.)   Wap to sort Zeroes and ones in an array ? 
 7.)   wap to Rotate the array by k steps where k is non negative number using Inplace method ?
       Note: k can be greater than array size .
+8.)  Given Q queries, check if the given number is present in the array or not.
