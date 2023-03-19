@@ -1,6 +1,3 @@
-1.)   Wap to find second largest element in the array ?
-2.)   Wap to find unique element in the array ?
-3.)   Given an array sorted in increasing order of size n and an integer x, find if there exists a pair in the array whose absolute difference is exactly x.(n>1)
-4.)   Given an array of size n, find the total number of occurrences of given number x.  
-5.)   Wap  to reverse the given array ? 
-6.) 
+# Algorithm 
+# Practice problem of Data structure and algorithm .
+# All the Question are written in Question file.
