@@ -6,3 +6,5 @@
 4.)   Given an array of size n, find the total number of occurrences of given number x.  
 5.)   Wap to reverse the given array ? 
 6.)   Wap to sort Zeroes and ones in an array ? 
+7.)   wap to Rotate the array by k steps where k is non negative number using Inplace method ?
+      Note: k can be greater than array size .
