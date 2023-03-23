@@ -18,3 +18,5 @@
 13.) Multiplication of two matrix 
 14.) Transpose of a Matrix 
 15.) Given a square matrix, turn it by 90 degrees in a clockwise direction without using any extra space.
+16.) Given an integer n, return the first n rows of Pascal's triangle.
+     In Pascal's triangle, each number is the sum of the two numbers directly above .
